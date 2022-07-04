@@ -1,0 +1,9 @@
+{
+    "name": "qi/web_2_manha",
+    "autoload": {
+        "psr-4": {
+            "APP\\": "src/"
+        }
+    },
+    "require": {}
+}
